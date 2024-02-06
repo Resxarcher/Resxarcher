@@ -5,4 +5,4 @@ About me:
 - **Bug Bounty Hunter 🐛**
 - **Programmer 💻**
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/resxarcher)
+[![Twitter Follow](https://img.shields.io/twitter/follow/resxarcher?style=social)](https://twitter.com/resxarcher)
